@@ -15,6 +15,6 @@ I like building things where software meets hardware.
 - **Address Book Management System**: contact manager in C
 
 ## 📫 Reach me
-[LinkedIn](your-linkedin-url) | mhdsabithtk@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohammed-shabith-b40a603bb?utm_source=share_via&utm_content=profile&utm_medium=member_android) | mhdsabithtk@gmail.com
 
 Open to internships in Embedded Systems, IoT, and Robotics.
